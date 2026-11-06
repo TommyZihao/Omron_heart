@@ -2,6 +2,12 @@
 
 心电贴 ECG-D01M01 → Android 手机 BLE → 心搏检测 → 热点 UDP → ESP32 心跳灯 / M5StickS3 波形与振动。手机内置网页、音乐和图标，可脱离电脑运行。
 
+视频：
+
+https://www.bilibili.com/video/BV1vG4666Ej6
+
+https://www.bilibili.com/video/BV1ntxx6gEnr
+
 ## 文件
 
 - `android/`：原生 Android Java 源码及离线界面；构建说明见 android/README.md。
